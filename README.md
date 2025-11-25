@@ -250,17 +250,17 @@ const interests = {
 <div align="center">
 
 **Estou sempre aberto a discutir:**
-- 💡 Novas ideias de projetos
-- 🤝 Oportunidades de colaboração
-- 🎯 Product development & strategy
-- 🔧 Automação e otimização de processos
+  💡 Novas ideias de projetos
+  🤝 Oportunidades de colaboração
+  🎯 Product development & strategy
+  🔧 Automação e otimização de processos
 
 <br>
 
-<a href="https://rsolutionsbr.com.br" target="_blank">
+<a href="https://rsolutionsbr.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge"/>
 </a>
-<a href="mailto:srgatocoursesonline@gmail.com">
+<a href="mailto:rodrigo.azevedo1988@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge"/>
 </a>
 <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
