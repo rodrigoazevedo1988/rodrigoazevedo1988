@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sr.%20Gato&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rodrigo%20Azevedo&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Product+Owner+%7C+CRM+Analyst;Python+Developer+%7C+Automation;Salesforce+%7C+Power+BI+Specialist;Building+Solutions+That+Scale" alt="Typing SVG" /></a>
