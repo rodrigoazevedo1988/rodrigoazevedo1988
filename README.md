@@ -38,10 +38,10 @@
 ```python
 class RodrigoAzevedo:
     def __init__(self):
-        self.name = "Sr. Gato"
+        self.name = "Rodrigo Azevedo"
         self.role = "Product Owner & CRM Analyst"
         self.company = "SPC Brasil"
-        self.experience = "4+ years"
+        self.experience = "5+ years"
         self.location = "São Paulo, Brasil"
         
         self.current_focus = [
@@ -64,7 +64,7 @@ class RodrigoAzevedo:
     def say_hi(self):
         print("Transforming business challenges into elegant solutions!")
 
-me = SrGato()
+me = RodrigoAzevedo()
 me.say_hi()
 ```
 
