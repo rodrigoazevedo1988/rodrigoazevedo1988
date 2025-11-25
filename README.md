@@ -15,13 +15,13 @@
 
 <!-- Social Links com Hover -->
 <p>
-  <a href="https://rsolutionsbr.com.br" target="_blank">
+  <a href="https://rsolutionsbr.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-rsolutionsbr.com.br-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"/>
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-azevedo88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/>
   </a>
-  <a href="mailto:srgatocoursesonline@gmail.com">
+  <a href="mailto:rodrigo.azevedo1988@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/>
   </a>
 </p>
