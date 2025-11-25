@@ -36,7 +36,7 @@
 ## 🚀 Sobre Mim
 
 ```python
-class SrGato:
+class RodrigoAzevedo:
     def __init__(self):
         self.name = "Sr. Gato"
         self.role = "Product Owner & CRM Analyst"
