@@ -189,20 +189,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📈 Contribuições & Atividade
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgatocoursesonline&theme=tokyonight"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=srgatocoursesonline&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 ## 💡 Áreas de Interesse
 
 ```javascript
@@ -263,7 +249,7 @@ const interests = {
 <a href="mailto:rodrigo.azevedo1988@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge"/>
 </a>
-<a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/rodrigo-azevedo88/" target="_blank">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/>
 </a>
 
